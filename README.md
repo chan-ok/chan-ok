@@ -11,4 +11,4 @@
 
 [![Codewars](https://github.r2v.ch/codewars?user=ifNotErrorRun&theme=gradient)](https://www.codewars.com/users/ifNotErrorRun)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifNotErrorRun&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifNotErrorRun&show_icons=true&theme=dracula)
