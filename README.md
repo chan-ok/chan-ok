@@ -9,6 +9,5 @@
   <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/-typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=black"><img src="https://img.shields.io/badge/-react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifNotErrorRun&show_icons=true&theme=dracula)
 
 
