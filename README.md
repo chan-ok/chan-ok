@@ -16,4 +16,4 @@
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifNotErrorRun&hide=contribs,prs&theme=vue)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ifNotErrorRun)](https://solved.ac/ifNotErrorRun)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=less3rpanda)](https://solved.ac/less3rpanda)
