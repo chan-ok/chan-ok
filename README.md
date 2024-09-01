@@ -1,19 +1,79 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wellcome%20&fontSize=90&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chanho.Kim%20&fontSize=90&descAlign=50)
 
 
 
-  ## Tech
+## 주로 쓰는 건...
 <p align="left">
-  <img src="https://img.shields.io/badge/-java-%23452FBF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACfFBMVEX///////////////////////////////3////////+//7///////////////////3////////+//3+//3///////3+//7///////3///3////+//7+//7///z+//3+//7////+//7////////////+//7+//3///////////3////////+//7+//39//3////+//7+//7+//7+//3///3///z///////////z9//3+//7////////+//7+//7///3///3///3////+//7////////+//7+//7///z////+//7///////3///3////+//3///z///////3+//7+//7+//7///3+//3+//7+//3///////z///////////z///3///////3///3+//7///////z///////////////z///3///3////+//7///////3+//7+//3+//7///3////+//3+//7///z////////////////+//7+//7+//7+//79//3///39//39//3+//7+//3+//7///z+//7+//7+//7+//7///3////+//3///////z////////////////+//7///////3////9//3+//7///3+//7+//7+//7+//3///////////////3+//7+//7+//3+//7///3///////z////+//7///////z+//7///3///z///////3///39//39//3///3///3///z///3+//7+//7////////+//7///3///////////////3+//7+//7////+//7///3///////3+//7+//3+//79//3///3////+//3////xUz1TAAAA0nRSTlMAAR0mAgMxiwQy2w9NJwWRLQzy/h+YyAeSZxe9vlHu4BLfGwkkxfcQPZM+E9r4ohWv2M35eGEKBligxggutNWOmYRGukkO6bNQJegNhnAU8GY1nsuu0G/62fwiWgs3U4xHlmnlP1soODBPdXQY5B5u0vvWaDPzwlwaPCtO1Ou7rKGbn6bm9ddiq97juHxA/SpSTEM2Ebk6lSCjsYjEtcPvFkgsicrs9r9sOWU70xxe0XljKXGKp6p2nF9qz8lBQreBGS9Kd8ztIc5/RYLc9OeojUTbXqjuAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAAOJgAADiYBou8l/AAAAAd0SU1FB+cEDA0tJGwytY8AAAPGSURBVEjHlVb9X5NVFD8P3oeuQo8MyQ1JYo1YiYhssScdM9CwkYJImEnMCoSZmFBm8aKVloKRpZGJmaS9SGAvZr6UvVqpvb98/6LO3eATe0GfnV92d3a/95zv95xz74imN43SZpCgVEyn9JsUMAWTNHNWRmphJGXiZo6Vghk0G1kpQSTZsufkpJKYQXQL5lIKEDuRA8hVSGumGTQvD7iVgwhrKkui+fnAbQUqmFUaDsyB83ZyERW6LFTToIw7UIS5bl7fedcCCwhJxQtRgkW8LF1cNtMCQifhgRd387IcZT4yb6yVzjX34h6OtgRLifw3pq5TBcAISQEsMyzEUEzuBSrJR1XAcmsaC1oB3EdUvRJOlxWAgtwPBIlqivDAKmvzJWk1UEtUtwaot0SF6a8FGnjvg0D+PEvTomnUiHWaoIeQjSUkraRmUOF6pJMwH8aGkiZrzW/SI6iiZgpxfTZanBdJj67RuTK1wGNRiG4YRvLp1KRplxE6j7dwpxRvaPVP4Z9MiYkcNDXum3RBTWib8Pnaw5uTYJQ0OU9saVlgI9aLhJ06HGRKnf1bVz8JLN2WBNPZ9dTT22tcmhBCSkY9E/UL0v2lLTvwbHwvGPQcK5QZ6/R395R39kaWfUA4Tj5OfSdjdnmef+HFht2Ve15qzNv58t6ifY61KmeDqluxPb6xBfn7B/Zjir0y+OoB/2Stel7jIYpvOUVOM18/sDx4sO/QG0OFb0a8dtUyrPxh7G9ObGxhaPSWL4mSjDiCHSH1mYChPehvnpTSN7yp/ujbveo2oAHkFSZDcGrHAO/Cd443Nh4f2fduhFDeCS7XoOckTdtt773/wYdR8qeco5Uf9ZQKQebBMdVM0yBU79nSNo+FK5qK9SlOfTqA+rUuFFthdYi8zgRISt+VnzmcETnTlRYaP329J0kYps78NzKL7LKRwMDA4Mf8XKDxkwlMQkm0SOKCy/Zp1/r/63/qs4bonwUtoYnZWxc88/nYKvXlbPCLcw3nLyxyXAzOUMrrhslcXDImEJP+El0hk+8Ivy9GG8NnRjeGj9pixsVOLcCK9IJpWA7Pn+1xfhWflzugMvecr6rvC/fmnChwVxdsTes93Xfp2IWv81HyTQcf9609FkPfnRtdiUQrcX7/w0kbbxk7PB47yJGX2rz8I3d+W39uZ8fFLbW5bT8NDU8cnPXzlau5CTpLM1LnbWcrstqvdZe6bS6f+3LN0KHyM0cCy1p/+dWd9FIS0nC3/zb+++7AyJU/ru71ev/8a9a60b//ufRvt8phctt/QJ4fWd2EHigAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDQtMTJUMTM6NDU6MzYrMDA6MDBH4C/XAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTA0LTEyVDEzOjQ1OjM2KzAwOjAwNr2XawAAAABJRU5ErkJggg==&logoColor=white"><img src="https://img.shields.io/badge/-Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/-springboot-%23509523?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+<br />
+  
+## 관심 있는 건...
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-## Studying
-<p align="left">
-    <img src="https://img.shields.io/badge/-Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-</p>
+  <br />
+  <br />
+<details>
+  <summary><h2>그 외 다루는 건...</h2></summary>
+  
+  <h4>Web</h4>
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  </div>
+  
+  <h4>Database</h4>
+  <div>
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    
+  </div>
 
+  <h4>IDE</h4>
+  <div>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </div>
+  
+  <h4>Tool</h4>
+  <div>
+    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" />
+  </div>
+</details>
 
+<br />
+<br />
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifNotErrorRun&hide=contribs,prs&theme=vue)
+#### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifNotErrorRun&hide=contribs&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifNotErrorRun&layout=compact)
+
+#### Baekjoon Stats
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=less3rpanda)](https://solved.ac/less3rpanda)
+
+<br />
+<br />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
