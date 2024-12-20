@@ -6,7 +6,7 @@
 [日本語](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README_jp.md)
 
 
-## Main Stack
+## 저는 주로 이런 것을 다룹니다
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -19,7 +19,7 @@
 </p>
 <br />
   
-## Studying
+## 관심을 가지고 공부중입니다
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -33,7 +33,7 @@
   <br />
   <br />
 <details>
-  <summary><h2>Sub Stack</h2></summary>
+  <summary><h2>그 외 이런 것들도 다뤄봤습니다</h2></summary>
   
   <h4>Web</h4>
   <div>
