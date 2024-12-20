@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chanho.Kim%20&fontSize=90&descAlign=50)
 
 ### Profile
-[한국어]()
-[English]()
-[日本語]()
+[한국어](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README.md)
+[English](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README_en.md)
+[日本語](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README_jp.md)
 
 
 ## Main Stack
