@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chanho.Kim%20&fontSize=90&descAlign=50)
 
-### Profile
+### プロファイル
 [한국어](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README.md)
 [English](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README_en.md)
 [日本語](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README_jp.md)
 
 
-## Main Stack
+### 主な技術スタック
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -19,7 +19,7 @@
 </p>
 <br />
   
-## Studying
+### 勉強中であること
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -33,7 +33,7 @@
   <br />
   <br />
 <details>
-  <summary><h2>Sub Stack</h2></summary>
+  <summary><h3>触ってみたこと</h3></summary>
   
   <h4>Web</h4>
   <div>
@@ -79,7 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifNotErrorRun&layout=compact&theme=vue" height="200px" width="38%" />
 </a>
 
-#### Baekjoon Stats
+#### Baekjoon Stats（コーディングテスト問題サイトのランク）
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=less3rpanda)](https://solved.ac/less3rpanda)
 
 <br />
