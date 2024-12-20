@@ -2,7 +2,7 @@
 
 
 
-## 주로 쓰는 건...
+## Main Stack
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -15,7 +15,7 @@
 </p>
 <br />
   
-## 관심 있는 건...
+## Studying
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -29,7 +29,7 @@
   <br />
   <br />
 <details>
-  <summary><h2>그 외 다루는 건...</h2></summary>
+  <summary><h2>Sub Stack</h2></summary>
   
   <h4>Web</h4>
   <div>
