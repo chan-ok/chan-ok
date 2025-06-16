@@ -65,16 +65,6 @@
 </details>
 
 <br />
-<br />
-
-## Stats
-#### Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifNotErrorRun&hide=contribs&theme=vue" height="200px" width="55%" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifNotErrorRun&layout=compact&theme=vue" height="200px" width="38%" />
-</a>
 
 #### Baekjoon Stats
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=less3rpanda)](https://solved.ac/less3rpanda)
