@@ -30,9 +30,3 @@
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,gitlab,postman,notion,md,netlify)](https://skillicons.dev)
-
-
-<br />
-<br />
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
