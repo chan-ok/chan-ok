@@ -1,5 +1,5 @@
 [한국어](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README.ko.md)
-[日本語](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README_jp.md)
+[日本語](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README.jp.md)
 
 
 ## Hi, There! 👋
