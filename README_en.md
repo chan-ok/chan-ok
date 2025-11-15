@@ -1,88 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chanho.Kim%20&fontSize=90&descAlign=50)
-
-### Profile
-[한국어](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README.md)
-[English](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README_en.md)
-[日本語](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README_jp.md)
+[English](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README.md)
+[日本語](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README.jp.md)
 
 
-## Main Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-<br />
-  
-## Studying
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
+## Hi, There! 👋
+저는 3년차 개발자입니다.
+2년간 풀스택 개발자로 웹 서비스 전반을 담당했으며, 현재는 프론트엔드 개발자로서 사용자 경험 중심의 개발에 집중하고 있습니다.
 
-  <br />
-  <br />
-<details>
-  <summary><h2>Sub Stack</h2></summary>
-  
-  <h4>Web</h4>
-  <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  </div>
-  
-  <h4>Database</h4>
-  <div>
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-    
-  </div>
+사용자의 관점에서 문제를 바라보는 것을 가장 중요한 가치로 두고,
+직관적이며 유지보수가 쉬운 코드, 명확한 구조를 지향합니다.
 
-  <h4>IDE</h4>
-  <div>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  </div>
-  
-  <h4>Tool</h4>
-  <div>
-    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-    <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" />
-  </div>
-</details>
+## 🌱 About Me
 
-<br />
-<br />
+- 사용자 중심의 UI/UX 설계를 좋아합니다.
+- 안정적인 구조와 코드 품질 개선에 관심이 많습니다.
+- 새로운 기술을 빠르게 학습해 실무에 적용하는 것을 즐깁니다.
+- 최근에는 자동화 테스트(Unit, Function, E2E)를 활용해 코드 관리 효율을 높이는 방법을 탐구하고 있습니다.
 
-## Stats
-#### Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifNotErrorRun&hide=contribs&theme=vue" height="200px" width="55%" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifNotErrorRun&layout=compact&theme=vue" height="200px" width="38%" />
-</a>
 
-#### Baekjoon Stats
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=less3rpanda)](https://solved.ac/less3rpanda)
+## 🛠 Tech Stack
 
-<br />
-<br />
+### Main
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,webpack,vite,npm)](https://skillicons.dev)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=pnpm,emotion,vitest,kotlin,kubernetes)](https://skillicons.dev)
+
+### Experienced
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,mysql,redis,nextjs,tailwind,bootstrap,jquery,docker,elasticsearch)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,gitlab,postman,notion,md,netlify)](https://skillicons.dev)
