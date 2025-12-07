@@ -1,4 +1,4 @@
-[English](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README.md)
+[English](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README.en.md)
 [日本語](https://github.com/ifNotErrorRun/ifNotErrorRun/blob/main/README.jp.md)
 
 
